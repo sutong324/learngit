@@ -1,0 +1,29 @@
+{
+  "name": "learngit",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sutong324/learngit",
+  "authors": [
+    "tonysu <sut@shinetechchina.com>"
+  ],
+  "description": "this is a demo for me to learn git",
+  "main": "readme.txt",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "learn",
+    "git"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
